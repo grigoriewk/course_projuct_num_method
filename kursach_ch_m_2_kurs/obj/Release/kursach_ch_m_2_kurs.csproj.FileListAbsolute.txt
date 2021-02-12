@@ -1,0 +1,20 @@
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.exe.config
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.exe
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.pdb
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.Form1.resources
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.Properties.Resources.resources
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.exe
+C:\Users\kiril\source\repos\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.pdb
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.exe.config
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.exe
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\bin\Release\kursach_ch_m_2_kurs.pdb
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.Form1.resources
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.Properties.Resources.resources
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.exe
+C:\Users\kiril\source\repos\2 kurs\chisl_method\kursach_ch_m_2_kurs\kursach_ch_m_2_kurs\obj\Release\kursach_ch_m_2_kurs.pdb
